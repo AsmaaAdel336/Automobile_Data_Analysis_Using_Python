@@ -1,7 +1,3 @@
-Here’s a README file for your Python project on automobile data:
-
----
-
 # Automobile Data Analysis Project
 
 ## Project Overview
